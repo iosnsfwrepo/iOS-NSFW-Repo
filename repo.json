@@ -1,93 +1,86 @@
 {
-"name": "NSFW App's",
-"subtitle": "Nothing but NSFW App's",
-"description": "Welcome to my source! Here you'll find all of my apps.",
-"iconURL": "https://rule34.us/v1/r34BigLogo2.png",
-"website": "",
-"patreonURL": "",
-"tintColor": "#6ee256",
-"featuredApps": [
-],
-"apps": [
-{
-"name": "violet",
-"bundleIdentifier": "xyz.project.violet",
-"marketplaceID": "",
-"developerName": "Example Developer",
-"subtitle": "An awesome app.",
-"localizedDescription": "This is an awesome app only available on AltStore.",
-"iconURL": "https://i.imgur.com/BCYjD2m.png",
-"tintColor": "#7434a4",
-"category": "other",
-"screenshots": [
-],
-"versions": [
-{
-"downloadURL": "https://github.com/project-violet/violet/releases/download/1.34.2/Payload.ipa",
-"size": 29300000,
-"version": "1.34.2",
-"buildVersion": null,
-"date": "2025-09-29T01:22:00-05:00",
-"localizedDescription": null,
-"minOSVersion": null
-}
-],
-"appPermissions": {
-"entitlements": [
-],
-"privacy": {
-"NSFaceIDUsageDescription": "Used to set app lock."
-}
-},
-"patreon": {
-}
-},
-{
-"name": "EhPanda",
-"bundleIdentifier": "app.ehpanda",
-"marketplaceID": "",
-"developerName": "Example Developer",
-"subtitle": "An awesome app.",
-"localizedDescription": "An unofficial E-Hentai App for iOS.",
-"iconURL": "https://i.imgur.com/UrwOeGL.png",
-"tintColor": "#7f7f7f",
-"category": "other",
-"screenshots": [
-],
-"versions": [
-{
-"downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.0/EhPanda.ipa",
-"size": 7400000,
-"version": "2.8.0",
-"buildVersion": null,
-"date": "2025-08-09T05:30:00-05:00",
-"localizedDescription": "An unofficial E-Hentai App for iOS",
-"minOSVersion": null
-}
-],
-"appPermissions": {
-"entitlements": [
-],
-"privacy": {
-"NSFaceIDUsageDescription": "We need this permission to provide Face ID option while unlocking the App.",
-"NSPhotoLibraryAddUsageDescription": "We need this permission to save images to your photo library."
-}
-},
-"patreon": {
-}
-}
-],
-"news": [
-{
-"title": "My first repo for NSFW app's :D",
-"identifier": "news_43f9scf853",
-"caption": "I think this is the only repo with NSFW only app's",
-"date": "2025-10-05T20:10",
-"tintColor": "#7b002c",
-"notify": true,
-"url": "",
-"appID": null,
-"imageURL": "https://rule34.us/v1/r34BigLogo2.png"
-}
-]
+	"name": "NSFW App's",
+	"subtitle": "Nothing but NSFW App's",
+	"description": "Welcome to my source! Here you'll find all of my apps.",
+	"iconURL": "https://rule34.us/v1/r34BigLogo2.png",
+	"website": "",
+	"patreonURL": "",
+	"tintColor": "#6ee256",
+	"featuredApps": [],
+	"apps": [
+		{
+			"name": "violet",
+			"bundleIdentifier": "xyz.project.violet",
+			"marketplaceID": "",
+			"developerName": "Example Developer",
+			"subtitle": "An awesome app.",
+			"localizedDescription": "This is an awesome app only available on AltStore.",
+			"iconURL": "https://i.imgur.com/BCYjD2m.png",
+			"tintColor": "#7434a4",
+			"category": "other",
+			"screenshots": [],
+			"versions": [
+				{
+					"downloadURL": "https://github.com/project-violet/violet/releases/download/1.34.2/Payload.ipa",
+					"size": 29300000,
+					"version": "1.34.2",
+					"buildVersion": null,
+					"date": "2025-09-29T01:22:00-05:00",
+					"localizedDescription": null,
+					"minOSVersion": null
+				}
+			],
+			"appPermissions": {
+				"entitlements": [],
+				"privacy": {
+					"NSFaceIDUsageDescription": "Used to set app lock."
+				}
+			},
+			"patreon": {}
+		},
+		{
+			"name": "EhPanda",
+			"bundleIdentifier": "app.ehpanda",
+			"marketplaceID": "",
+			"developerName": "Example Developer",
+			"subtitle": "An awesome app.",
+			"localizedDescription": "An unofficial E-Hentai App for iOS.",
+			"iconURL": "https://i.imgur.com/UrwOeGL.png",
+			"tintColor": "#7f7f7f",
+			"category": "other",
+			"screenshots": [],
+			"versions": [
+				{
+					"downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.0/EhPanda.ipa",
+					"size": 7400000,
+					"version": "2.8.0",
+					"buildVersion": null,
+					"date": "2025-08-09T05:30:00-05:00",
+					"localizedDescription": "An unofficial E-Hentai App for iOS",
+					"minOSVersion": null
+				}
+			],
+			"appPermissions": {
+				"entitlements": [],
+				"privacy": {
+					"NSFaceIDUsageDescription": "We need this permission to provide Face ID option while unlocking the App.",
+					"NSPhotoLibraryAddUsageDescription": "We need this permission to save images to your photo library."
+				}
+			},
+			"patreon": {}
+		}
+	],
+	"news": [
+		{
+			"title": "My first repo for NSFW app's :D",
+			"identifier": "news_43f9scf853",
+			"caption": "I think this is the only repo with NSFW only app's",
+			"date": "2025-10-05T20:10",
+			"tintColor": "#7b002c",
+			"notify": true,
+			"url": "",
+			"appID": null,
+			"imageURL": "https://rule34.us/v1/r34BigLogo2.png"
+		}
+	]
 }
